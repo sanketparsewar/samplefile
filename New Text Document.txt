@@ -1,0 +1,2 @@
+Welcome to the sample file that we have created
+in this we will see the basic git push commands
